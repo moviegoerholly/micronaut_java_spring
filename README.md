@@ -10,6 +10,6 @@
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
-[![cicd-demo](https://github.com/moviegoerholly/micronaut_java_spring/actions/workflows/cicd-demo.yml/badge.svg)](https://github.com/moviegoerholly/micronaut_java_spring/actions/workflows/cicd-demo.yml)
+[![.github/workflows/cicd-workflow.yaml](https://github.com/moviegoerholly/micronaut_java_spring/actions/workflows/cicd-workflow.yaml/badge.svg)](https://github.com/moviegoerholly/micronaut_java_spring/actions/workflows/cicd-workflow.yaml)
 
 

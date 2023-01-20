@@ -22,7 +22,7 @@ jobs:
         java --version
     - name: 'Assemble JAR'
       run: |
-        ./gradlew assemble
+        mvn clean package
     - name: 'Get Version Number'
       run: |
         echo "VERSION=$(./gradlew properties -q | grep "version:" |

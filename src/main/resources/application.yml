@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: store_svc
+netty:
+  default:
+    allocator:
+      max-order: 3

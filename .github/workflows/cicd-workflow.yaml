@@ -10,4 +10,4 @@ jobs:
     steps:
     - name: 'Start build job'
       run: | 
-      echo "Starting the build job."
+        echo "Starting the build job."
